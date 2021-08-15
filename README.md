@@ -6,10 +6,6 @@
 
 * Aplicação Front-End Squad Management Tool.
 
-## Deploy Heroku
-
-<!-- :point_right:  [https://corebiz-front-end.herokuapp.com/](https://corebiz-front-end.herokuapp.com/) -->
-
 ## Começando
 
 ### :wrench: Pré-requisitos
