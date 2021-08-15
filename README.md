@@ -14,7 +14,7 @@ Antes de começar, você precisará ter as seguintes ferramentas instaladas em s
 
 ### 🎲 Back-End (API)
 
-API RESTful desenvolvida em Node.Js hospedada no Heroku
+API RESTful desenvolvida em Node.js
 
 ## Deploy API RESTful Heroku
 
