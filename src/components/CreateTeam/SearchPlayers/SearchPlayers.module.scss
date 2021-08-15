@@ -1,0 +1,51 @@
+.gridSearch {
+  width: 250px;
+  margin-left: 80px;
+}
+
+.searchInput {
+  width: 250px;
+}
+
+.cardSearch {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10px;
+  width: 300px;
+  height: 50px;
+  background: #e7e7e7;
+  border-radius: 5px;
+  padding: 12px;
+  font-size: 0.7rem;
+}
+
+.card {
+  display: grid;
+}
+
+.label {
+  font-size: 0.8rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.span {
+  color: #f2295b;
+  font-weight: bold;
+}
+
+.strong {
+  color: black;
+}
+
+@media (min-width: 800px) and (max-width: 1204px) {
+  .gridSearch {
+    margin-left: -6px;
+  }
+}
+
+@media (max-width: 800px) {
+  .gridSearch {
+    margin-left: 10px;
+  }
+}

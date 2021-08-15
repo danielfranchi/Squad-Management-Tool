@@ -1,0 +1,49 @@
+.tableHighest {
+  tbody {
+    background: #e9e3e8;
+
+    tr {
+      display: flex;
+      padding: 3px;
+      margin: 3px;
+      border-radius: 5px;
+      background: white;
+    }
+
+    td {
+      display: flex;
+      padding: 5px;
+      width: 117px;
+      border-radius: 6px 6px 0 0;
+      font-size: 0.9rem;
+      text-align: center;
+      border: none;
+      cursor: pointer;
+    }
+
+    td:first-child {
+      border-radius: 6px 0 0 6px;
+      font-size: 0.8rem;
+    }
+
+    td:last-child {
+      border-radius: 0 6px 6px 0;
+      font-size: 0.8rem;
+    }
+
+    tr:hover {
+      border: solid 1px #c06296;
+      border-radius: 5px;
+    }
+  }
+}
+
+.Highest {
+  background: #e9e3e8;
+  width: 250px;
+  border-radius: 6px;
+}
+
+.tableHighest {
+  margin: 0 auto;
+}
